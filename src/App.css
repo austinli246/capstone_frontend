@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.Image{
+  width: 50%;
+  height: 50%;
+}
+
+.container{
+  text-align:center
+
+}
+
+  
+
+.topbar-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 7vh;
+  background: rgb(0, 0, 0);
+ 
+
+}
+.nav-links {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  color:white;
+
+}
+.navbar-logo{
+ 
+  text-align:left;
+  max-width: 100px;
+}
+.logo{
+  width: 50%;
+  height: 50%;
+}
+.GamePage{
+  text-align: center;
+}
+.pg-img{
+  width: 50%;
+  height: 50%;
+  
+}
+ul{
+  list-style-type: none;
+}
+.game-links{
+  font-weight:bold;
+  font-size: 1.25rem;
+  text-decoration: none;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
